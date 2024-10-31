@@ -1,6 +1,6 @@
 # Hi there, I'm Brisa! 👋
 
-I'm a **Bioengineer** by education (in process, hopefully by next July) and a **Software Engineer** by experience. I'm passionate about leveraging technology to enhance healthcare. I currently work at **Solvd** as a team lead on my project, where I focus on software development and team collaboration. With a commitment to problem-solving, I aim to create impactful solutions. I'm hoping to gain more hard skills experience and, someday, apply it in healthcare tech development.
+I'm a Bioengineer in training (graduating next July!) and a Software Engineer by profession. I’m passionate about harnessing technology to improve healthcare outcomes. Currently, I'm a team lead at Solvd, where I focus on software development and driving team collaboration. I’m committed to finding innovative solutions and am eager to expand my technical skills, with the long-term goal of building transformative healthcare tech that truly impacts people’s lives.
 
 ## 🎓 Education
 - **Bioengineer, Instituto Tecnológico de Buenos Aires, Argentina**  
