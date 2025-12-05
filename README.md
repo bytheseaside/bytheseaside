@@ -1,6 +1,6 @@
 # Hi there, I'm Brisa! 👋
 
-I'm a Bioengineer in training (graduating next July!) and a Software Engineer by profession. I’m passionate about harnessing technology to improve healthcare outcomes. Currently, I'm a software engineer at The QA Company, where I focus on QAnswer, a SaaS platform; implementing new features, and driving team collaboration. I’m committed to finding innovative solutions and am eager to expand my technical skills, with the long-term goal of building transformative healthcare tech that truly impacts people’s lives.
+I'm a Bioengineer in training (graduating next February!) and a Software Engineer by profession. I’m passionate about harnessing technology to improve healthcare outcomes. Currently, I'm a software engineer at The QA Company, where I focus on QAnswer, a SaaS platform; implementing new features, and driving team collaboration. I’m committed to finding innovative solutions and am eager to expand my technical skills, with the long-term goal of building transformative healthcare tech that truly impacts people’s lives.
 
 ## 🎓 Education
 - **Bioengineer, Instituto Tecnológico de Buenos Aires, Argentina**  
@@ -27,3 +27,4 @@ I invite you to explore my repositories and reach out if you have any questions 
 - [LinkedIn](https://www.linkedin.com/in/rojas-brisa/)
 
 Thanks for stopping by!
+
